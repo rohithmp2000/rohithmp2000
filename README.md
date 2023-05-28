@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as .Net Developer
 - 🌱 I’m currently learning Web Developments and hosting.
-- 👯 I’m looking to collaborate on projects with Python-Django or .Net 
+- 👯 I’m looking to collaborate on projects with Python-Django or ASP.Net MVC and Blazor.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: rohithmp2014@gmail.com
 - 😄 Pronouns : Ro-hi-th
