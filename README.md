@@ -38,7 +38,7 @@ And i am now working as a .Net Developer in a reputed Company in Calicut.
 
 | No   | Year            | Post            | Subject/Qualification        | Company/Instutation                    |
 |-----:|-----------------|-----------------|------------------------------|----------------------------------------|
-| 1    | 2023 - Present  | .Net Developer  |              -               | Team THAI, Calicut                     |
+| 1    | 2023 - Present  | .Net Developer  | Software Developer           | Team THAI, Calicut                     |
 | 2    | 2022 - 2022     | Intern Student  | Python-Django                | Brototype Academy, Calicut             |
 | 3    | 2020 - 2021     | Intern Student  | Python-Django                | Quest Innovative Solutions, Calicut    |
 | 4    | 2018 - 2020     | Student         | Degree Bsc Computer Science  | AWH Special College, Calicut           |
