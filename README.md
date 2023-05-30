@@ -28,11 +28,12 @@ And i am now working as a .Net Developer in a reputed Company in Calicut.
 |     2| Django     |
 |     3| C          |
 |     4| .net       |
-|     5| HTML       |
-|     6| CSS        |
-|     7| Bootstrap  |
-|     8| SQL        |
-|     9| MongoDB    |
+|     5| Blazor     |
+|     6| HTML       |
+|     7| CSS        |
+|     8| Bootstrap  |
+|     9| SQL        |
+|    10| MongoDB    |
 
 ## Education and Experience
 
